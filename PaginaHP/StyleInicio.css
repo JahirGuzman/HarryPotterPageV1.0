@@ -1,0 +1,90 @@
+/*-------------------------*/
+/*DOCUMENTO CSS PARA INICIO*/
+/*-------------------------*/
+
+/*--------------*/
+/*COLOR DEL BODY*/
+/*--------------*/
+.Inicio 
+{
+	background-color: #FCF3CF;
+}
+
+/*-----------------------------------------*/
+/*ATRIBUTOS PARA LAS IMAGENES DE LOS LIBROS*/
+/*-----------------------------------------*/
+
+.Foto1 
+{ 
+	padding: 4px; margin: 8px; border: 5px solid black; 
+	float: right; width: 200px; height: 300px; 
+}
+.Foto2 
+{ 
+	padding: 4px; margin: 8px; border: 5px solid black; 
+	float: right; width: 200px; height: 300px; 
+}
+.Foto3 
+{ 
+	padding: 4px; margin: 8px; border: 5px solid black; 
+	float: right; width: 200px; height: 300px; 
+}
+.Foto4 
+{ 
+	padding: 4px; margin: 8px; border: 5px solid black; 
+	float: right; width: 200px; height: 300px; 
+}
+.Foto5
+{ 
+	padding: 4px; margin: 8px; border: 5px solid black; 
+	float: right; width: 200px; height: 300px; 
+}
+.Foto6 
+{ 
+	padding: 4px; margin: 8px; border: 5px solid black; 
+	float: right; width: 200px; height: 300px; 
+}
+.Foto7 
+{ 
+	padding: 4px; margin: 8px; border: 5px solid black; 
+	float: right; width: 200px; height: 300px; 
+}
+
+/*-------------------------------------*/
+/*ATRIBUTOS PARA LOS LOGOS DE LAS CASAS*/
+/*-------------------------------------*/
+
+.Logo1
+{ 
+	padding: 4px; margin: 8px; 
+	float: left; 
+}
+.Logo2
+{ 
+	padding: 4px; margin: 8px; 
+	float: left; 
+}
+.Logo3
+{ 
+	padding: 4px; margin: 8px; 
+	float: right; 
+}
+.Logo4
+{ 
+	padding: 4px; margin: 8px; 
+	float: right; 
+}
+
+/*------------------*/
+/*ACOMODO DEL INDICE*/
+/*------------------*/
+
+.ice
+{
+	 float: left;
+}
+
+/*---------------------------------------*/
+/*---DOCUMENTO CSS PROYECTO PAGINA WEB---*/
+/*---PAGINA CREADA POR C.J. SEBASTIANG---*/
+/*---------------------------------------*/
